@@ -1,3 +1,5 @@
+
+<img align="center" alt="quote" width="1600" src="https://i.pinimg.com/564x/ba/46/34/ba463421835011b8bc72045ae0cbc978.jpg">
 <h1 align="center">Hi 👋, I'm Ananthu K S</h1>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
