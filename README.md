@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://twitter.com/dev_aks224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_aks224" height="30" width="40" /></a> 
 <a href="https://instagram.com/___ananthu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___ananthu__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ananthuks9526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananthuks9526" height="30" width="40" /></a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthu-dev224&show_icons=true&locale=en&layout=compact" alt="ananthu-dev224" /></p>
 <br>
