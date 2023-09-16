@@ -2,9 +2,9 @@
 <img align="center" alt="quote" width="1600" src="https://i.pinimg.com/564x/ba/46/34/ba463421835011b8bc72045ae0cbc978.jpg">
 <h1 align="center">Hi 👋, I'm Ananthu K S</h1>
 
-<img align="left" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthu-dev224" alt="ananthu-dev224" /></a> </p>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
+
+
 
 <p align="left"> <a href="https://twitter.com/@dev_aks224" target="blank"><img src="https://img.shields.io/twitter/follow/@dev_aks224?logo=twitter&style=for-the-badge" alt="@dev_aks224" /></a> </p>
 
