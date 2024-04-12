@@ -5,11 +5,9 @@
 
 - 📫 How to reach me **ananthudev224@gmail.com**
 
-  <p align="right">
-  <img src="https://i.gifer.com/NvL.gif" alt="Animated GIF" />
-</p>
+<img align="right" alt="Gif" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ananthu-k-s-403512291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananthu-k-s-403512291" height="30" width="40" /></a>
