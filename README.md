@@ -3,7 +3,7 @@
 
 
 
-- 📫 How to reach me **ananthudev224@gmail.com**
+- 📫 How to reach me **ananthu9526official@gmail.com**
 
 <img align="right" alt="Gif" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
